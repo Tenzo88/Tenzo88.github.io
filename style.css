@@ -1,0 +1,15 @@
+body{
+    min-height: 2000px;
+}
+
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #b7d1fd;
+}
+
+section{
+    padding-top: 4rem;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
